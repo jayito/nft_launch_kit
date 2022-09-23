@@ -45,7 +45,7 @@ const Home = () => {
 
         <form className="bg-gray-900 opacity-75 w-full shadow-lg rounded-lg px-8 pt-6 pb-8 mb-4">
           <div className="mb-4">
-            <label className="block text-blue-300 py-2 font-bold mb-2" for="emailaddress">
+            <label className="block text-blue-300 py-2 font-bold mb-2">
               Recipient Address
             </label>
             <input
@@ -61,7 +61,7 @@ const Home = () => {
             )}
           </div>
           <div className="mb-4">
-            <label className="block text-blue-300 py-2 font-bold mb-2" for="emailaddress">
+            <label className="block text-blue-300 py-2 font-bold mb-2">
               Amount
             </label>
             <input
