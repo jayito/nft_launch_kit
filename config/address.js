@@ -1,0 +1,1 @@
+export const LaunchContract = '0xbE341d424B419DA0aedB06dc53075595279795d6'
