@@ -1,7 +1,7 @@
 # NFT LAUNCH KIT
 
-This is ❤ using [NextJS](https://nextjs.org/) and [TailwindCSS](https://tailwindcss.com/)
-See  for live demo
+This is ❤ using [NextJS](https://nextjs.org/) and [TailwindCSS](https://tailwindcss.com/).
+See https://super-melomakarona-8a6f5f.netlify.app/ for live demo
 ![preview](assets/preview.png)
 
 # Installation
